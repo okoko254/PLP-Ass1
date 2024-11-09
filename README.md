@@ -1048,6 +1048,7 @@ C) Run mysqladmin start in the terminal
 D) Restart your computer to activate MySQL
 The answer is B
 
+This is just to commit, happy 100 days of code, i really need to start serious coding
 
 
 
