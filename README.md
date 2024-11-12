@@ -1726,6 +1726,8 @@ With the rise of AI and automation, you might tailor your sales strategy to focu
 
 
 
+Here to commit. #PLP #Code everyday #100 days of code. #Women in Tech
+
 
 
 
