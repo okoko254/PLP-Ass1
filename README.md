@@ -2300,5 +2300,3 @@ Set reminders and deadlines to keep projects on track
 Integrate with Slack and Google Calendar for seamless communication
 
 
-plp 100 days of code
-
