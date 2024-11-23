@@ -2299,4 +2299,3 @@ Assign and track tasks across your team
 Set reminders and deadlines to keep projects on track
 Integrate with Slack and Google Calendar for seamless communication
 
-
